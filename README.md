@@ -100,7 +100,7 @@ sudo ./project_backup.sh
 ```
 - or
   ```
-sudo ./project_backup.sh <dir>
+sudo ./project_backup.sh < dir >
 
 ```
 ---
