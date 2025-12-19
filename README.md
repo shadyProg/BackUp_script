@@ -92,7 +92,18 @@ chmod +x daily_backup.sh
 * Log file: `$HOME/backup.log`
 
 ---
+## 🧾 Notes
+- You should use sudo with commend , so you will write like it
+```
+sudo ./project_backup.sh
 
+```
+- or
+  ```
+sudo ./project_backup.sh <dir>
+
+```
+---
 ### 🔹 Run with custom source and destination
 
 ```bash
